@@ -1,4 +1,4 @@
-# GMATsimulator
+# GMAT simulator
 
 ## Background
 
