@@ -1,4 +1,4 @@
-# GMATsimulator README
+# GMATsimulator
 
 ## Motivation
 
